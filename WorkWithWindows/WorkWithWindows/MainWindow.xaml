@@ -1,0 +1,13 @@
+﻿<Window x:Class="WorkWithWindows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorkWithWindows"
+        mc:Ignorable="d"
+        Title="MainWindow" SizeToContent="WidthAndHeight" ResizeMode="CanMinimize" Loaded="Window_Loaded">
+    <StackPanel Margin="5">
+        <Button  Name="button1" Content="Відкрити підпорядковане вікно" Margin="5" Padding="5" Click="button1_Click"/>
+        <Button  Name="button2" Content="Відкрити діалогове вікно" Margin="5" Padding="5" Click="button2_Click"/>
+    </StackPanel>
+</Window>
