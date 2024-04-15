@@ -1,0 +1,15 @@
+C:\Users\andri\source\repos\Events\Events\bin\Debug\Events.exe.config
+C:\Users\andri\source\repos\Events\Events\bin\Debug\Events.exe
+C:\Users\andri\source\repos\Events\Events\bin\Debug\Events.pdb
+C:\Users\andri\source\repos\Events\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\Events\Events\obj\Debug\MainWindow.g.cs
+C:\Users\andri\source\repos\Events\Events\obj\Debug\App.g.cs
+C:\Users\andri\source\repos\Events\Events\obj\Debug\Events_MarkupCompile.cache
+C:\Users\andri\source\repos\Events\Events\obj\Debug\Events_MarkupCompile.lref
+C:\Users\andri\source\repos\Events\Events\obj\Debug\MainWindow.baml
+C:\Users\andri\source\repos\Events\Events\obj\Debug\Events.g.resources
+C:\Users\andri\source\repos\Events\Events\obj\Debug\Events.Properties.Resources.resources
+C:\Users\andri\source\repos\Events\Events\obj\Debug\Events.csproj.GenerateResource.cache
+C:\Users\andri\source\repos\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\Events\Events\obj\Debug\Events.exe
+C:\Users\andri\source\repos\Events\Events\obj\Debug\Events.pdb
