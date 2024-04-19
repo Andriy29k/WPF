@@ -1,0 +1,15 @@
+C:\Users\andri\source\repos\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\andri\source\repos\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\andri\source\repos\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\MainWindow.g.cs
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\App.g.cs
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\Timer_MarkupCompile.cache
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\Timer_MarkupCompile.lref
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\MainWindow.baml
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\Timer.g.resources
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\andri\source\repos\Timer\Timer\obj\Debug\Timer.pdb
