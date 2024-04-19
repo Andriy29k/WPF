@@ -1,0 +1,15 @@
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\bin\Debug\TEXTBOXES.exe.config
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\bin\Debug\TEXTBOXES.exe
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\bin\Debug\TEXTBOXES.pdb
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\TEXTBOXES.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\MainWindow.g.cs
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\App.g.cs
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\TEXTBOXES_MarkupCompile.cache
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\TEXTBOXES_MarkupCompile.lref
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\MainWindow.baml
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\TEXTBOXES.g.resources
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\TEXTBOXES.Properties.Resources.resources
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\TEXTBOXES.csproj.GenerateResource.cache
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\TEXTBOXES.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\TEXTBOXES.exe
+C:\Users\andri\source\repos\TEXTBOXES\TEXTBOXES\obj\Debug\TEXTBOXES.pdb
