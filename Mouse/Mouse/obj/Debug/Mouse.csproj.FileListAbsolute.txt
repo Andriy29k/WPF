@@ -1,0 +1,15 @@
+C:\Users\andri\source\repos\Mouse\Mouse\bin\Debug\Mouse.exe.config
+C:\Users\andri\source\repos\Mouse\Mouse\bin\Debug\Mouse.exe
+C:\Users\andri\source\repos\Mouse\Mouse\bin\Debug\Mouse.pdb
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\Mouse.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\MainWindow.g.cs
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\App.g.cs
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\Mouse_MarkupCompile.cache
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\Mouse_MarkupCompile.lref
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\MainWindow.baml
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\Mouse.g.resources
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\Mouse.Properties.Resources.resources
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\Mouse.csproj.GenerateResource.cache
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\Mouse.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\Mouse.exe
+C:\Users\andri\source\repos\Mouse\Mouse\obj\Debug\Mouse.pdb
