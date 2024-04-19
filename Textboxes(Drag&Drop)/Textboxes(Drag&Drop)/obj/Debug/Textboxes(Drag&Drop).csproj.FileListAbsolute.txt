@@ -1,0 +1,15 @@
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\bin\Debug\Textboxes(Drag&Drop).exe.config
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\bin\Debug\Textboxes(Drag&Drop).exe
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\bin\Debug\Textboxes(Drag&Drop).pdb
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\Textboxes(Drag&Drop).csproj.AssemblyReference.cache
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\MainWindow.g.cs
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\App.g.cs
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\Textboxes(Drag&Drop)_MarkupCompile.cache
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\Textboxes(Drag&Drop)_MarkupCompile.lref
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\MainWindow.baml
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\Textboxes(Drag&Drop).g.resources
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\Textboxes_Drag_Drop_.Properties.Resources.resources
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\Textboxes(Drag&Drop).csproj.GenerateResource.cache
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\Textboxes(Drag&Drop).csproj.CoreCompileInputs.cache
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\Textboxes(Drag&Drop).exe
+C:\Users\andri\WPF\Textboxes(Drag&Drop)\Textboxes(Drag&Drop)\obj\Debug\Textboxes(Drag&Drop).pdb
