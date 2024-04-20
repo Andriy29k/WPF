@@ -1,0 +1,15 @@
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\bin\Debug\Cursor&Icons.exe.config
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\bin\Debug\Cursor&Icons.exe
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\bin\Debug\Cursor&Icons.pdb
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\Cursor&Icons.csproj.AssemblyReference.cache
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\MainWindow.g.cs
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\App.g.cs
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\Cursor&Icons_MarkupCompile.cache
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\Cursor&Icons_MarkupCompile.lref
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\MainWindow.baml
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\Cursor&Icons.g.resources
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\Cursor_Icons.Properties.Resources.resources
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\Cursor&Icons.csproj.GenerateResource.cache
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\Cursor&Icons.csproj.CoreCompileInputs.cache
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\Cursor&Icons.exe
+C:\Users\andri\WPF\Cursor&Icons\Cursor&Icons\obj\Debug\Cursor&Icons.pdb
