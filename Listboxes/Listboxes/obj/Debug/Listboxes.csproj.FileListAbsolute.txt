@@ -1,0 +1,15 @@
+C:\Users\andri\WPF\Listboxes\Listboxes\bin\Debug\Listboxes.exe.config
+C:\Users\andri\WPF\Listboxes\Listboxes\bin\Debug\Listboxes.exe
+C:\Users\andri\WPF\Listboxes\Listboxes\bin\Debug\Listboxes.pdb
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\Listboxes.csproj.AssemblyReference.cache
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\MainWindow.g.cs
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\App.g.cs
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\Listboxes_MarkupCompile.cache
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\Listboxes_MarkupCompile.lref
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\MainWindow.baml
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\Listboxes.g.resources
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\Listboxes.Properties.Resources.resources
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\Listboxes.csproj.GenerateResource.cache
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\Listboxes.csproj.CoreCompileInputs.cache
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\Listboxes.exe
+C:\Users\andri\WPF\Listboxes\Listboxes\obj\Debug\Listboxes.pdb

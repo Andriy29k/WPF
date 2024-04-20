@@ -1,0 +1,47 @@
+﻿<Window x:Class="Listboxes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Listboxes"
+        mc:Ignorable="d"
+        Title="Listboxes" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <StackPanel Margin="5" Orientation="Horizontal">
+        <StackPanel>
+            <ComboBox x:Name="comboBox1" Margin="5" MinWidth="150" SelectionChanged="comboBox1_SelectionChanged"
+                      PreviewMouseDown="comboBox1_PreviewMouseDown" DragEnter="comboBox1_DragEnter"
+                      DragOver="comboBox1_DragEnter"/>
+            <Rectangle x:Name="rect1" Margin="5" Height="100" Stroke="Black"
+                       Fill="{Binding ElementName=comboBox1, Path=SelectedValue}"/>
+            <Rectangle x:Name="rect2" Margin="5" Height="100" Stroke="Black" />
+        </StackPanel>
+        <StackPanel>
+            <StackPanel.Resources>
+                <Style x:Key="label">
+                    <Setter Property="Control.Padding" Value="5"/>
+                    <Setter Property="Control.Margin" Value="5"/>
+                    <Setter Property="Control.BorderBrush" Value="Black"/>
+                    <Setter Property="Control.BorderThickness" Value="1"/>
+                    <Setter Property="Control.HorizontalContentAlignment" Value="Center"/>
+                </Style>
+            </StackPanel.Resources>
+            <Label x:Name="label1" Content="Add" 
+                    MouseDown="label1_MouseDown" Style="{StaticResource label}"/>
+            <Label x:Name="label2" Content="Delete" MouseDown="label2_MouseDown"
+                   Style="{StaticResource label}"/>
+            <Label x:Name="label3" Content="Insert" 
+                   MouseDown="label3_MouseDown" Style="{StaticResource label}"/>
+            <Label x:Name="label4" Content="Move Up" MouseDown="label4_MouseDown"
+                   Style="{StaticResource label}"/>
+            <Label x:Name="label5" Content="Move Down" 
+                   MouseDown="label5_MouseDown" Style="{StaticResource label}"/>
+            <Label x:Name="label6" Content="Save To File" 
+                   MouseDown="label6_MouseDown" Style="{StaticResource label}"/>
+            <Label x:Name="label7" Content="Load From File" MouseDown="label7_MouseDown"
+                   Style="{StaticResource label}"/>
+        </StackPanel>
+        <ListBox x:Name="listBox1" Margin="5" MinWidth="150" SelectionChanged="listBox1_SelectionChanged"
+                 MouseDoubleClick="label2_MouseDown" AllowDrop="True" PreviewMouseDown="listBox1_PreviewMouseDown"
+                 Drop="listBox1_Drop"/>
+    </StackPanel>
+</Window>
