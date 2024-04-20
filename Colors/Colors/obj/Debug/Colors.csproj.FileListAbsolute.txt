@@ -1,0 +1,15 @@
+C:\Users\andri\source\repos\Colors\Colors\bin\Debug\Colors.exe.config
+C:\Users\andri\source\repos\Colors\Colors\bin\Debug\Colors.exe
+C:\Users\andri\source\repos\Colors\Colors\bin\Debug\Colors.pdb
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\Colors.csproj.AssemblyReference.cache
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\MainWindow.g.cs
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\App.g.cs
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\Colors_MarkupCompile.cache
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\Colors_MarkupCompile.lref
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\MainWindow.baml
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\Colors.g.resources
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\Colors.Properties.Resources.resources
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\Colors.csproj.GenerateResource.cache
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\Colors.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\Colors.exe
+C:\Users\andri\source\repos\Colors\Colors\obj\Debug\Colors.pdb
