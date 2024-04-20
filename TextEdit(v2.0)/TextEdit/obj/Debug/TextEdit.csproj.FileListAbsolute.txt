@@ -1,0 +1,15 @@
+C:\Users\andri\WPF\TextEdit\TextEdit\bin\Debug\TextEdit.exe.config
+C:\Users\andri\WPF\TextEdit\TextEdit\bin\Debug\TextEdit.exe
+C:\Users\andri\WPF\TextEdit\TextEdit\bin\Debug\TextEdit.pdb
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\TextEdit.csproj.AssemblyReference.cache
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\MainWindow.g.cs
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\App.g.cs
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\TextEdit_MarkupCompile.cache
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\TextEdit_MarkupCompile.lref
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\MainWindow.baml
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\TextEdit.g.resources
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\TextEdit.Properties.Resources.resources
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\TextEdit.csproj.GenerateResource.cache
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\TextEdit.csproj.CoreCompileInputs.cache
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\TextEdit.exe
+C:\Users\andri\WPF\TextEdit\TextEdit\obj\Debug\TextEdit.pdb
