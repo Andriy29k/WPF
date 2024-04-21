@@ -1,0 +1,15 @@
+C:\Users\andri\WPF\HanTowers\HanTowers\bin\Debug\HanTowers.exe.config
+C:\Users\andri\WPF\HanTowers\HanTowers\bin\Debug\HanTowers.exe
+C:\Users\andri\WPF\HanTowers\HanTowers\bin\Debug\HanTowers.pdb
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\HanTowers.csproj.AssemblyReference.cache
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\MainWindow.g.cs
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\App.g.cs
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\HanTowers_MarkupCompile.cache
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\HanTowers_MarkupCompile.lref
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\MainWindow.baml
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\HanTowers.g.resources
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\HanTowers.Properties.Resources.resources
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\HanTowers.csproj.GenerateResource.cache
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\HanTowers.csproj.CoreCompileInputs.cache
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\HanTowers.exe
+C:\Users\andri\WPF\HanTowers\HanTowers\obj\Debug\HanTowers.pdb
