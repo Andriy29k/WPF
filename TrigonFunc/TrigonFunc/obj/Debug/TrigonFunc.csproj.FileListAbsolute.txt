@@ -1,0 +1,17 @@
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\bin\Debug\TrigonFunc.exe.config
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\bin\Debug\TrigonFunc.exe
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\bin\Debug\TrigonFunc.pdb
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\TrigonFunc.csproj.AssemblyReference.cache
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\MainWindow.g.cs
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\App.g.cs
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\TrigonFunc_MarkupCompile.cache
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\TrigonFunc_MarkupCompile.lref
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\MainWindow.baml
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\TrigonFunc.g.resources
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\TrigonFunc.Properties.Resources.resources
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\TrigonFunc.csproj.GenerateResource.cache
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\TrigonFunc.csproj.CoreCompileInputs.cache
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\TrigonFunc.exe
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\TrigonFunc.pdb
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\Window1.g.cs
+C:\Users\andri\WPF\TrigonFunc\TrigonFunc\obj\Debug\Window1.baml
