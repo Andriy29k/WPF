@@ -1,0 +1,33 @@
+﻿<Window x:Class="ImageViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageViewer"
+        mc:Ignorable="d"
+        Title="ImageViewer" Height="350" Width="700" WindowStartupLocation="CenterScreen"
+        Closing="Window_Closing">
+    <Grid x:Name="grid1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="160"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <TreeView x:Name="dirList1" PreviewKeyDown="dirList1_PreviewKeyDown"
+                  SelectedItemChanged="dirList1_SelectedItemChanged"/>
+        <GridSplitter Grid.Column="1" MinWidth="5" HorizontalAlignment="Center" Focusable="False"
+                      Background="Gray"/>
+        <DockPanel Grid.Column="2">
+            <ComboBox x:Name="comboBox1" DockPanel.Dock="Bottom" SelectionChanged="comboBox1_SelectionChanged"/>
+            <ListBox x:Name="fileList1" Background="LightGray" 
+                 SelectionChanged="fileList1_SelectionChanged"/>
+        </DockPanel>
+              <GridSplitter Grid.Column="3" MinWidth="5" HorizontalAlignment="Center" Focusable="False"
+              Background="Gray"/>
+        <ScrollViewer x:Name="scrollViewer1" Grid.Column="4" SizeChanged="scrollViewer1_SizeChanged"
+                      KeyDown="scrollViewer1_KeyDown">
+            <Image x:Name="image1"/>
+        </ScrollViewer>
+    </Grid>
+</Window>
