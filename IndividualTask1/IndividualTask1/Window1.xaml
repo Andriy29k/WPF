@@ -1,0 +1,33 @@
+﻿<Window x:Class="IndividualTask1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IndividualTask1"
+        mc:Ignorable="d"
+        Title="Window1"  Height="200" Width="300"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize" ShowInTaskbar="False">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="X:" Grid.Row="0" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txtX" Grid.Row="0" Grid.Column="1" Margin="5"/>
+        <TextBlock Text="Y:" Grid.Row="1" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txtY" Grid.Row="1" Grid.Column="1" Margin="5"/>
+        <TextBlock Text="Текст:" Grid.Row="2" Grid.Column="0" Margin="5"/>
+        <TextBox x:Name="txtText" Grid.Row="2" Grid.Column="1" Margin="5"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Right" Margin="5">
+            <Button x:Name="Ok" Content="ОК" IsDefault="True" Click="Ok_Click"/>
+            <Button x:Name="Apply" Content="Застосувати" Click="Apply_Click"/>
+            <Button x:Name="Cancel" Content="Відміна" IsCancel="True" Click="Cancel_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
